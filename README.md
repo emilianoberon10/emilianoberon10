@@ -6,7 +6,7 @@
 
 :small_blue_diamond: I’m interested in working with ReactJS, FireBase, MongoDB also in UI/UX desing with AdobeXD and Figma.
 
-:small_blue_diamond: Currently learning ReactJS and no SQL data bases.
+:small_blue_diamond: Currently deepening my knowledge of ReactJS, API's and pattern designs.
 
 📫 Reach me on [my portfolio](https://github.com/emilianoberon10/) ( WORKING ON )
 
