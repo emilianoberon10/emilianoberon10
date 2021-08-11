@@ -8,8 +8,9 @@
 
 :small_blue_diamond: Currently deepening my knowledge of ReactJS, API's and pattern designs.
 
+<!---
 📫 Reach me on [my portfolio](https://github.com/emilianoberon10/) ( WORKING ON )
-
+--->
 <!---
 emilianoberon10/emilianoberon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
