@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
 [<code>
@@ -58,5 +59,6 @@ You can click the Preview link to take a look at your changes.
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
+[<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
