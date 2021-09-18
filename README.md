@@ -1,20 +1,14 @@
-# About:
+### Hi there, I'm Emilaino Beron - [Look my portfolio][website] 👋
 
-### Hey,
+## I'm a Developer and a Student
 
-:small_blue_diamond: My name is emiliano beron I am passionate about technology, with great enthusiasm for learning and working, I am currently a software engineering student :mortar_board:.
+### Connect with me:
 
-:small_blue_diamond: I’m interested in working with ReactJS, FireBase, MongoDB also in UI/UX desing with AdobeXD and Figma.
+[<img align="left" alt="Emiliano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Emiliano| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-:small_blue_diamond: Currently deepening my knowledge of ReactJS, API's and pattern designs.
+<br />
 
-<!---
-📫 Reach me on [my portfolio](https://github.com/emilianoberon10/) ( WORKING ON )
---->
-<!---
-emilianoberon10/emilianoberon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Languages and Tools:
 
 [<code>
@@ -62,3 +56,18 @@ You can click the Preview link to take a look at your changes.
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+
+---
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+
+<a href="https://github.com/emilianoberon10">
+<img align="center" alt="Emiliano's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=emilianoberon10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/emilianoberon10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=emilianoberon10&layout=compact&theme=radical" />
+</a>
+
+---
+
+[website]: https://emilianoberon.netlify.app
+[linkedin]: https://www.linkedin.com/in/emiliano-beron-3a90a21b9/
